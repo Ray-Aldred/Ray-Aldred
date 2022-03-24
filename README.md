@@ -1,4 +1,4 @@
-
+![This is Ray's new photo](https://raw.githubusercontent.com/Ray-Aldred/Ray-Aldred/main/GitHub1.gif)
 
 - 👋 Hi, I’m @Ray-Aldred
 - 👀 I’m interested in philosophy, machine learing, data science, and cyber security.
