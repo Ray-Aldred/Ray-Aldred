@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Ray-Aldred
 - 👀 I’m interested in philosophy, machine learing, data science, UX design, and cyber security.
-- 🌱 I’m currently learning about Data Science, and I'm currently doing a PhD in philosophy.
+- 🌱 I’m currently learning about Data Science, and I'm currently doing a PhD in philosophy at McGill.
 - 📫 You can reach me at raymond.aldred@pm.me
 
 <!---
