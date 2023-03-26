@@ -47,7 +47,7 @@ Thank you for stopping by, and I look forward to collaborating with all of you!
 ## [Ray Aldred's Data Science Portfolio and Projects](https://github.com/Ray-Aldred/Data-Science-Portfolio) 
 
 ---
-### Certifications:
+### Certification:
 
 <div id="header" align="center">
   <img src="https://github.com/Ray-Aldred/Ray-Aldred/blob/main/data_scientist_professional_badge.png" width="150"/>
