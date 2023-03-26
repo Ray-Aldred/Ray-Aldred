@@ -50,7 +50,7 @@ Thank you for stopping by, and I look forward to collaborating with all of you!
 ### Certifications:
 
 <div id="header" align="center">
-  <img src="https://github.com/Ray-Aldred/Ray-Aldred/blob/main/data_scientist_professional_badge.png" width="100"/>
+  <img src="https://github.com/Ray-Aldred/Ray-Aldred/blob/main/data_scientist_professional_badge.png" width="150"/>
 </div>
 
 <!---
