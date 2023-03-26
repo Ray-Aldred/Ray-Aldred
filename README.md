@@ -42,7 +42,9 @@ Thank you for stopping by, and I look forward to collaborating with all of you!
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-## My Data Science Portfolio and Projects
+
+---
+## [Ray Aldred's Data Science Portfolio and Projects](https://github.com/Ray-Aldred/Data-Science-Portfolio)  
 
 <!---
 Ray-Aldred/Ray-Aldred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
