@@ -44,7 +44,14 @@ Thank you for stopping by, and I look forward to collaborating with all of you!
 </div>
 
 ---
-## [Ray Aldred's Data Science Portfolio and Projects](https://github.com/Ray-Aldred/Data-Science-Portfolio)  
+## [Ray Aldred's Data Science Portfolio and Projects](https://github.com/Ray-Aldred/Data-Science-Portfolio) 
+
+---
+### Certifications:
+
+<div id="header" align="center">
+  <img src="https://github.com/Ray-Aldred/Ray-Aldred/blob/main/data_scientist_professional_badge.png" width="500"/>
+</div>
 
 <!---
 Ray-Aldred/Ray-Aldred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
