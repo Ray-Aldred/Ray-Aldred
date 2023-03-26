@@ -22,7 +22,7 @@
 ---
 ### About Me:
 
-Hello and welcome to my GitHub profile! I'm an individual who embodies a diverse range of experiences and interests, shaped and molded by my identity as a disabled and Metis person. As a Ph.D. student in philosophy, I spend much of my time contemplating the intricate connections between disability, sexuality, and love, and I am constantly seeking to deepen my understanding of these complex subjects.
+Hello and welcome to my GitHub! I'm an individual who embodies a diverse range of experiences and interests, shaped and molded by my identity as a disabled and Metis person. As a Ph.D. student in philosophy, I spend much of my time contemplating the intricate connections between disability, sexuality, and love, and I am constantly seeking to deepen my understanding of these complex subjects.
 
 At the same time, I'm also a new data scientist with a profound fascination for the power of machine learning and AI. There's something truly thrilling -and a little scary- about the way that data can reveal new insights and patterns, and I'm constantly seeking new ways to push the boundaries of what's possible in this exciting field.
 
