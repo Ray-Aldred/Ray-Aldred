@@ -22,9 +22,9 @@
 ---
 ### About Me:
 
-Hello and welcome to my GitHub! I am Ray, a Ph.D. student in philosophy, where I spend much of my time contemplating the intricate connections between disability, sexuality, and love, and I am constantly seeking to deepen my understanding of these complex subjects.
+Hello, and welcome to my GitHub! I am Ray, a Ph.D. student in philosophy, where I spend much of my time contemplating the intricate connections between disability, sexuality, and love. I am constantly seeking to deepen my understanding of these complex subjects.
 
-At the same time, I'm also a new data scientist with a profound fascination for the power of machine learning and AI. There's something truly thrilling -and a little scary- about the way that data can reveal new insights and patterns, and I'm constantly seeking new ways to push the boundaries of what's possible in this exciting field.
+At the same time, I'm also a new data scientist with a profound fascination for the power of machine learning and AI. There's something truly thrilling -and a little scary- about how data can reveal new insights and patterns, and I'm constantly seeking new ways to push the boundaries of what's possible in this exciting field.
 
 Thank you for stopping by, and I look forward to collaborating with all of you!
 
@@ -47,7 +47,7 @@ Thank you for stopping by, and I look forward to collaborating with all of you!
 ## [Ray Aldred's Data Science Portfolio and Projects](https://github.com/Ray-Aldred/Data-Science-Portfolio) 
 
 ---
-### Certification:
+### Certifications:
 
 <div id="header" align="center">
   <a href="https://www.datacamp.com/certificate/DS0025690401741">
