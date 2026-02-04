@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-Hello, and welcome to my GitHub! I'm Ray, a Ph.D. student in philosophy exploring the intricate connections between disability, sexuality, and love. By day, I'm a senior analyst at one of Canada's major banks and a data scientist fascinated by the power of machine learning and AI.
+Hello, and welcome to my GitHub! I'm Ray, a Ph.D. student in philosophy exploring the intricate connections between disability, sexuality, and love. By day, I'm a senior analyst at one of Canada's major banks and a data scientist fascinated by the power of machine learning and "AI."
 
 There's something truly thrilling—and a little scary—about how data can reveal hidden insights and patterns. I'm constantly pushing my own boundaries and exploring what's possible in this exciting field.
 
